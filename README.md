@@ -1,0 +1,1 @@
+# Consulta_e_Busca_de_Documentos_com_Google_Gemini-Python
